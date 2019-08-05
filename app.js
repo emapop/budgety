@@ -1,5 +1,5 @@
 //Separation of concerns
-
+//the working logic
 //BUDGET CONTROLLER
 var budgetController = (function() {
 
